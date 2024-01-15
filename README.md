@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohaiadagio" alt="sohaiadagio" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/martinarana555" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/martinarana555?logo=twitter&style=for-the-badge" alt="https://twitter.com/martinarana555" /></a> </p>
-
 - 🔭 I’m currently working on Springboot + Angular **Fullstack web dev**
 
 ### Blogs posts
